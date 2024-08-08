@@ -306,6 +306,7 @@ body {
   }
 }
 
+
 @media print {
   body::after {
     display: none;
